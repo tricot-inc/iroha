@@ -1,3 +1,7 @@
+# IROHA
+
+Skackのチャットボットです
+
 # SlackBot with OpenAI on Cloudflare Workers
 
 This repository contains a SlackBot built on Cloudflare Workers that leverages OpenAI to answer questions when mentioned.
